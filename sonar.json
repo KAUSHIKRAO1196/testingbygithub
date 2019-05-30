@@ -1,0 +1,4 @@
+{  
+    "sonarHost": "http://139.59.29.153:9000",
+    "sonarProjectKey": "Sonar_demo"
+}
